@@ -7,3 +7,11 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 The product category data set that was used for this analysis was the Outdoors category.
 
 The table below shows the results of the analysis:
+
+
+# Summary
+Bias of Vine member reviews was not present due to the consistent percentages of 5-star reviews found in the three groups. Simple rounding shows all three groups had roughly 53% of their reviews rated at 5 stars.
+
+### Addition Analysis to consider
+* Percentage of Vine/Non-Vine reviews that were negative or below 2 stars
+* Natural Language Processing (NLP) to analyze the sentiment of each review to predict future reviews
