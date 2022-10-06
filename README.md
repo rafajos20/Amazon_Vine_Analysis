@@ -8,6 +8,7 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 The product category data set that was used for this analysis was the Outdoors category.
 
 The table below shows the results of the analysis:
+
 ![](resourcesVINE/vine1.png) 
 
 # Summary
