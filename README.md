@@ -1,3 +1,4 @@
+![](resourcesVINE/vine0.png) 
 # Amazon_Vine_Analysis
 # Overview:
 ### Analyzing Amazon reviews written by members of the paid Amazon Vine program.
@@ -7,7 +8,7 @@ The Amazon Vine program is a service that allows manufacturers and publishers to
 The product category data set that was used for this analysis was the Outdoors category.
 
 The table below shows the results of the analysis:
-
+![](resourcesVINE/vine1.png) 
 
 # Summary
 Bias of Vine member reviews was not present due to the consistent percentages of 5-star reviews found in the three groups. Simple rounding shows all three groups had roughly 53% of their reviews rated at 5 stars.
